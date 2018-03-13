@@ -15,7 +15,8 @@
  */
 
 package whmcs
-/*
+
+/**
 import (
 	"bytes"
 	"encoding/json"
